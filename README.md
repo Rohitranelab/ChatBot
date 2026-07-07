@@ -201,7 +201,7 @@ The app will open automatically at **`http://localhost:8501`** 🎉
 
 ## 🚀 Live Demo
 
-> 🔗 **[Click here to try the live app]https://chatbot-e8od.onrender.com/**
+> 🔗 **https://chatbot-e8od.onrender.com/**
 
 _Type any medical question and get an instant, intent-matched response from the bot._
 
