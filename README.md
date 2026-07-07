@@ -59,20 +59,6 @@ Raw Text → NLP Preprocessing → Bag-of-Words → ANN Intent Classifier → Re
 
 ## 🧠 How It Works
 
-```mermaid
-flowchart LR
-    A[💬 User Message] --> B[🔡 Tokenize - NLTK]
-    B --> C[🌱 Lemmatize - WordNetLemmatizer]
-    C --> D[🔢 Bag-of-Words Vector]
-    D --> E[🧠 ANN Model - chatbot_model.h5]
-    E --> F{🎯 Confidence > 0.25?}
-    F -->|Yes| G[🏷️ Top Intent Tag]
-    F -->|No| H[🔄 Fallback Response]
-    G --> I[📖 Lookup intents.json]
-    I --> J[🎲 Random Response Pick]
-    J --> K[💬 Bot Reply in Streamlit UI]
-```
-
 ### Step-by-step pipeline
 
 1. **Tokenize** — split user input into individual words using `nltk.word_tokenize`
