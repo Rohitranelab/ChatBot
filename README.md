@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=🤖+MedIntent-Bot;AI-Powered+Medical+Chatbot;NLP+%2B+Deep+Learning+%2B+Streamlit" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=+MedIntent-Bot;AI-Powered+Medical+Chatbot;NLP+%2B+Deep+Learning+%2B+Streamlit" alt="Typing SVG" />
 
 <br/>
 
